@@ -17,7 +17,7 @@ Aplikasi ini memiliki tampilan sederhana namun responsif dan mudah digunakan.
 ## Preview
 
 <div align="center">
-  <img src="assets/img/preview.png" alt="Calculator Preview" width="300">
+  <img src="assets/img/preview.png" alt="Calculator Preview" width="500">
 </div>
 
 ---
@@ -35,7 +35,7 @@ Aplikasi ini memiliki tampilan sederhana namun responsif dan mudah digunakan.
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/username/calculator-web.git
+git clone https://github.com/24-Muhammad-Ikhsan-X-PPLG-2/calculator-web.git
 ```
 
 2. Masuk ke directory project
